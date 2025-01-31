@@ -12,10 +12,10 @@ I analyze and visualize data to uncover insights that drive business decisions.
 
 📈 **More projects coming soon!**  
 
-## 🔹 Contact Me  
-📧 **Email:** your.email@example.com  
-📌 **GitHub:** [github.com/Egbe34](https://github.com/Egbe34)  
-📌 **LinkedIn:** [linkedin.com/in/graceegbe](https://linkedin.com/in/graceegbe)  
-📌 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/)  
+## 🔹 Contact me [Egbe Grace Egbe]
+📧 **Email:** [graceegbe3@gmail.com]
+📌 **GitHub:** [https://github.com/Egbe34)  
+📌 **LinkedIn:** [www.linkedin.com/in/grace-egbe-77820b278]
+📌 **Kaggle:** [https://www.kaggle.com/graceegbe12]
 
 ---

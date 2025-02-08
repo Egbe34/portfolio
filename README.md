@@ -1,6 +1,6 @@
 # 🚀 Grace Egbe – Data Analyst Portfolio
 
-![GitHub Banner](https://your-image-link-here.com/banner.png)  
+![GitHub Banner](https://github.com/Egbe34/portfolio/blob/main/banner.png)  
 
 ## 📌 About Me
 Hello! I'm **Grace Egbe**, a passionate **Data Analyst** with expertise in **Python, SQL, Tableau, and Data Visualization**. I love transforming raw data into meaningful insights and crafting compelling visual stories to drive business decisions. 
@@ -54,9 +54,12 @@ Hello! I'm **Grace Egbe**, a passionate **Data Analyst** with expertise in **Pyt
 ---
 
 ## 📜 Certifications & Achievements
+🎓 **Master’s Degree in Computer Engineering**  
+🎓 **Bachelor’s Degree in Computer Network & Engineering**  
 ✅ Google Data Analytics Professional Certificate  
 ✅ Kaggle Expert – Data Visualization  
 ✅ Tableau Data Analyst Badge  
+✅ Other relevant certifications
 
 🔹 If you find my work helpful, give a ⭐ to my projects! 
 

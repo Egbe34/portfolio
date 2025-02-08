@@ -1,50 +1,68 @@
- # 🌍 Air Quality & Health Impact Analysis
+# 🚀 Grace Egbe – Data Analyst Portfolio
 
-## 📌 Overview
-This project analyzes the impact of air pollution on public health, focusing on respiratory diseases. Using real-world data, we explore how pollutants like **PM2.5, NO₂, and CO** correlate with health issues such as asthma, lung infections, and other respiratory illnesses. 
+![GitHub Banner](https://your-image-link-here.com/banner.png)  
 
-## 🎯 Objectives
-✅ Understand the relationship between air quality and public health.  
-✅ Identify key pollutants affecting respiratory diseases.  
-✅ Use **data visualization** to reveal trends and insights.  
-✅ Provide policy recommendations for mitigating health risks.  
+## 📌 About Me
+Hello! I'm **Grace Egbe**, a passionate **Data Analyst** with expertise in **Python, SQL, Tableau, and Data Visualization**. I love transforming raw data into meaningful insights and crafting compelling visual stories to drive business decisions. 
 
-## 📊 Data & Methodology
-- **Data Sources:** Real-world datasets on air pollution and health statistics.  
-- **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Tableau, Kaggle.  
-- **Analysis Performed:**
-  - Data Cleaning & Preprocessing.
-  - Exploratory Data Analysis (EDA).
-  - Visualization of trends & correlations.
-  - Interpretation of health impacts.
+🌍 **Location:** Germany 🇩🇪  
+📊 **Specialties:** Data Analysis | Visualization | Business Intelligence | Machine Learning  
+🎯 **Looking for:** Data Analyst roles in **E-commerce, Sustainability, and Business Analytics**
 
-## 📈 Key Insights
-🔹 High **PM2.5 & NO₂ levels** strongly correlate with increased respiratory disease cases.  
-🔹 Urban areas with high traffic emissions show **higher pollution & health risks**.  
-🔹 Seasonal trends indicate that air quality worsens in winter, impacting vulnerable populations.  
-🔹 Public transport & green energy adoption can **reduce pollution and improve health outcomes**.  
+---
 
-## 🔎 Visualizations
-📌 Interactive dashboards & visualizations are available on **Kaggle & Tableau**:
-👉 **[Kaggle Notebook](https://www.kaggle.com/code/graceegbe12/air-quality-health-impact-analysis)**  
-👉 Tableau Dashboard (Add Link If Available)  
+## 🛠️ Skills & Tools
 
-## 💡 Business Impact & Recommendations
-✔️ **Governments & policymakers** should implement **stricter air quality regulations**.  
-✔️ **Urban planners** should increase **green spaces & promote public transport**.  
-✔️ **Health organizations** should target **at-risk communities** with awareness campaigns.  
-✔️ Further research should focus on **real-time pollution monitoring** for predictive analysis.  
+✅ **Programming & Query Languages:** Python, SQL  
+✅ **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+✅ **Data Analysis & Manipulation:** Pandas, NumPy, Scikit-Learn  
+✅ **Big Data & Cloud:** Google BigQuery, AWS (Basics)  
+✅ **Version Control & Collaboration:** Git, GitHub, Kaggle  
 
-## 🚀 How to Run the Code
-1️⃣ Clone this repository:
-```bash
-git clone https://github.com/Egbe34/air-quality-health-impact-analysis.git
-```
-2️⃣ Install dependencies:
-```bash
-pip install pandas matplotlib seaborn
-```
-3️⃣ Run the analysis in Jupyter Notebook or any Python environment.
+---
+
+## 📊 Featured Projects
+
+### 🔹 [1. Air Quality & Health Impact Analysis](https://www.kaggle.com/code/graceegbe12/air-quality-health-impact-analysis)
+**Description:** Analyzing the impact of air pollution on public health using real-world data. Includes advanced visualizations, correlation analysis, and policy recommendations.
+
+🔹 **Key Insights:** 
+- PM2.5 & NO₂ significantly correlate with respiratory diseases. 
+- High pollution areas show increased hospitalization rates.
+- Urban planning can mitigate health risks.
+
+---
+
+### 🔹 [2. E-commerce Customer Analytics](https://www.kaggle.com/code/graceegbe12/e-commerce-customer-analytics)
+**Description:** Exploring customer purchasing behavior in e-commerce using Python & Tableau. Includes cohort analysis, sales trends, and customer segmentation.
+
+🔹 **Key Insights:** 
+- Returning customers generate 60% of total revenue.
+- Seasonal trends impact sales performance.
+- Personalized marketing increases retention rates.
+
+---
+
+### 🔹 [3. Customer Churn Prediction](https://www.kaggle.com/code/graceegbe12/customer-churn-prediction)
+**Description:** Predicting customer churn using machine learning models. Feature engineering, logistic regression, and advanced visualizations included.
+
+🔹 **Key Insights:** 
+- Customers using monthly subscriptions are more likely to churn.
+- Payment method impacts retention rates.
+- Feature importance analysis for churn prediction.
+
+---
+
+## 📜 Certifications & Achievements
+✅ Google Data Analytics Professional Certificate  
+✅ Kaggle Expert – Data Visualization  
+✅ Tableau Data Analyst Badge  
+
+🔹 If you find my work helpful, give a ⭐ to my projects! 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Egbe34&show_icons=true&theme=radical)
+
+
 
 ## 📢 Connect with Me:
 ## 🔹 Contact me [Egbe Grace Egbe]
@@ -58,10 +76,6 @@ pip install pandas matplotlib seaborn
 
 📈 **More projects coming soon!**  
 
-## 🔹 Contact me [Egbe Grace Egbe]
-📧 **Email:** [graceegbe3@gmail.com]
-📌 **GitHub:** [https://github.com/Egbe34)  
-📌 **LinkedIn:** [www.linkedin.com/in/grace-egbe-77820b278]
-📌 **Kaggle:** [https://www.kaggle.com/graceegbe12]
 
----
+
+
